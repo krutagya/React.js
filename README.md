@@ -37,7 +37,7 @@ Method 2 :-
 2.node_modules :- It will create an enviroment and the given liberarys that are requires to run the code with in are there in the node_modules . it is simplely important to run the code  
 4.src :- source code have multiply javascript(jsx) file which are install while installing vite and where we'll spend most of our time beacuse all code we have to write within src.
 5.pacakge-lock.json :- it is created through npm and It will store meta data of the project wile in the form of script in which we have no acces to change there commands
-6.package.json :-it is created through vite and It will store meta data of the project wile in the form of script in which we have acces to change there commands in it  
+6.package.json :-it is created through vite and It will store meta data of the project wile in the form of script from line number(6-11) in which we have acces to change there commands in it  
 7.public :- it containes static files that will be serverd directly to your browser without being processed by Vite's build tooling.
 ```
 ### 3. Exploring first react component <App/>
