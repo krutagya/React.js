@@ -43,10 +43,8 @@ Method 2 :-
 ### 3. Exploring first react component <App/>
 ```bash
 In a React application, the <App /> component typically serves as the root component. It is the starting point of the React component tree and is usually rendered into the root HTML element of the page.
-![Alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbetterprogramming.pub%2Fcreating-a-simple-app-with-react-js-f6aa88998952&psig=AOvVaw0ORFAM3VX3bZZFkymzo9ZB&ust=1733378073627000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKivydm2jYoDFQAAAAAdAAAAABAE)
-
 ```
-
+![Alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbetterprogramming.pub%2Fcreating-a-simple-app-with-react-js-f6aa88998952&psig=AOvVaw0ORFAM3VX3bZZFkymzo9ZB&ust=1733378073627000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKivydm2jYoDFQAAAAAdAAAAABAE)
 
 
 ### For writing html css and java script (all the syntax)
